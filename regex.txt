@@ -1,0 +1,5 @@
+(\.|^)googleadservices\.net$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)googleadservices\.com$
+(\.|^)applovin\.com$
+(\.|^)applvn\.com$
